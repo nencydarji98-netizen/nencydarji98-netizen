@@ -35,7 +35,8 @@ Here are some of my projects:
 
 📫 Connect With Me
 
-- GitHub: https://github.com/nencydarji98-netizen 
+- GitHub: https://github.com/nencydarji98-netizen
+- Email : nencydarji98@gmail.com 
 
 ---
 
