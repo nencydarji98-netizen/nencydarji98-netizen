@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi there 👋, I'm Nency Darji
 
-<!--
-**nencydarji98-netizen/nencydarji98-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 About Me
 
-Here are some ideas to get you started:
+- 📚 B.Sc. Data Science student (2nd Year)
+- 💻 Learning Python, SQL, HTML, CSS, and JavaScript
+- 📊 Interested in Data Science, Data Analysis, and Web Development
+- 🌱 Currently improving my programming and problem-solving skills
+- 🎯 Goal: Become a Data Scientist and contribute to real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+- Python
+- SQL
+- HTML & CSS
+- JavaScript
+- Microsoft Excel
+- Data Visualization
+- Statistics
+
+🚀 Currently Learning
+
+- Data Analysis with Python
+- Machine Learning
+- Git & GitHub
+- Advanced SQL
+
+📂 Projects
+
+Here are some of my projects:
+
+- 💅 Nail Art Website (HTML, CSS, JavaScript)
+- 📈 Data Analysis Practice
+- 🌐 Mini Web Development Projects
+
+📫 Connect With Me
+
+- GitHub: https://github.com/nencydarji98-netizen 
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
