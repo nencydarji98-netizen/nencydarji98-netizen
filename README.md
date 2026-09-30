@@ -40,5 +40,4 @@ Here are some of my projects:
 
 ---
 
-
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
